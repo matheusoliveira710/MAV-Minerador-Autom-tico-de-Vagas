@@ -1,0 +1,508 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="pt-br"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="pt-br"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="pt-br"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="pt-br"> <!--<![endif]-->
+<head>
+<META http-equiv=Content-Language content=pt-br>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+	<title>APinfo - O ponto de encontro dos profissionais de informática</title>
+	<meta name="description" content="Banco de curriculum de profissionais de informática, empregos, vagas,pesquisas, tabelas salariais e suporte tecnico">
+	<meta name="keywords" content="Salarios, salários, tabelas, profissionais, empregos,informática, informatica, analistas, sistemas, gerentes, programadores, consultores, trabalho, duvida, suporte, dicas, free, pesquisas">
+	<meta name="author" content="Apinfo">
+
+	<!-- Mobile Specific Metas
+  ================================================== -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+	<!-- CSS
+  ================================================== -->
+	<link rel="stylesheet" href="https://www.apinfo.com/apinfo/assets/css/base.css">
+	<link rel="stylesheet" href="https://www.apinfo.com/apinfo/assets/css/skeleton.css">
+	<link rel="stylesheet" href="https://www.apinfo.com/apinfo/assets/css/style2.css">
+
+	<!--[if lt IE 9]>
+		<link rel="stylesheet" href="https://www.apinfo.com/apinfo/assets/css/ie.css">
+		<script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+	<link rel="shortcut icon" href="https://www.apinfo.com/apinfo/assets/favicon.ico">
+	<link rel="apple-touch-icon" href="https://www.apinfo.com/apinfo/assets/img/apple-touch-icon.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="https://www.apinfo.com/apinfo/assets/img/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="https://www.apinfo.com/apinfo/assets/img/apple-touch-icon-114x114.png">
+
+	<!-- Facebook Open Graph meta tags
+	============================================== -->
+	<meta name="og:title" content="APinfo - O ponto de encontro dos profissionais de informática"/>
+	<meta name="og:url" content="https://www.apinfo.com"/>
+	<meta name="og:image" content="https://www.apinfo.com/apinfo/assets/img/logo.jpg"/>
+	<meta name="og:site_name" content="APinfo"/>
+	<meta name="og:description" content="Banco de curriculum de profissionais de informática, empregos, vagas,pesquisas, tabelas salariais e suporte tecnico"/>
+
+	<!-- JS
+	============================================== -->
+	<script src="https://www.apinfo.com/apinfo/assets/js/modernizr.js"></script>
+	<script src="https://www.apinfo.com/apinfo/assets/js/jquery-3.3.1.min.js"></script>
+	<script src="https://www.apinfo.com/apinfo/assets/js/jquery.placeholder.js"></script>
+
+	<script src="https://www.google.com/jsapi"></script>
+
+	<script src="https://www.apinfo.com/apinfo/assets/js/jquery.mask.min.js"></script>
+
+	<script src="https://www.apinfo.com/apinfo/assets/js/jquery.autocomplete.min.js"></script>
+	<script src="https://www.apinfo.com/apinfo/assets/js/currency-autocompletet.js"></script>
+
+</head>
+<body>
+	<div class="top-shortcut">
+		<span><strong>O ponto de encontro dos profissionais de informática </strong></span>
+	</div>
+	<div class="container">
+		<div class="eight columns">
+			<h1 class="logo m-tb">
+				<a href="https://www.apinfo.com/apinfo/index.cfm" title="APinfo">APinfo</a>
+			</h1>
+		</div>
+		<div class="eight columns">
+			<div class="publicidade-home half-bottom">
+				
+   <center>
+<a href="https://www.apinfo.com/cgi/clickba.cfm?empre=apiforum" target="_top">
+ <img src="https://www.apinfo.com/banner/forumai.jpg"
+ alt="apiforum" border="0"></a>
+ </center>
+			</div>
+		</div>
+	</div>
+	<div class="container">
+		<div class="sixteen columns">
+			<div class="btn-mobile">
+				<a href="https://www.apinfo.com/apinfo/#" class="fright" id="m-menu">
+					<span class="btn-menu"></span>
+					<span class="btn-menu"></span>
+					<span class="btn-menu"></span>
+				</a>
+			</div>
+			<nav class="top-menu">
+				<section class="top-menu-section">
+					<ul>
+						<li class="has-dropdown"><a href="https://www.apinfo.com/apinfo/#">Profissionais</a>
+							<ul class="dropdown">
+								<li><a href="https://www.apinfo.com/apinfo/inc/list4.cfm">Pesquisar Vagas</a></li>
+								<li><a href="https://www.apinfo2.com/apinfo/inc/cv-inc.cfm">Incluir Currículo</a></li>
+								<li><a href="https://www.apinfo2.com/apinfo/inc/validas.cfm">Atualizar Currículo</a></li>
+								<li><a href="https://www.apinfo2.com/apinfo/inc/cv-exc.cfm">Excluir Currículo</a></li>
+								<li><a href="https://www.apinfo.com/apinfo/inc/faqp.cfm">Perguntas frequentes</a></li>
+							</ul>
+						</li>
+						<li class="has-dropdown"><a href="https://www.apinfo.com/apinfo/#">Empresas</a>
+							<ul class="dropdown">
+								<li><a href="https://www.apinfo2.com/apinfo/inc/pesq9a.cfm">Pesquisar Currículo</a></li>
+								<li><a href="https://www.apinfo2.com/apinfo/inc/pesqentra2.cfm">Pesquisa Avançada CV</a></li>
+								<li><a href="https://www.apinfo.com/apinfo/inc/incofe01.cfm">Incluir Vaga</a></li>
+								<li><a href="https://www.apinfo.com/apinfo/inc/alterar_vaga.cfm">Alterar Vaga</a></li>
+								<li><a href="https://www.apinfo.com/apinfo/inc/excofe.cfm">Excluir Vaga</a></li>
+								<li><a href="https://www.apinfo.com/apinfo/inc/faqe.cfm">Perguntas frequentes</a></li>
+							</ul>
+						</li>
+						<li class="has-dropdown"><a href="https://www.apinfo.com/apinfo/#">Informação</a>
+							<ul class="dropdown">
+								<li><a href="https://www.apinfo2.com/apinfo/inc/resultados_pesquisas.cfm">Resultado Pesquisa</a></li>
+								<li><a href="https://www.apinfo2.com/apinfo/informacao/p23sal-br.cfm">Salários</a></li>
+								<li><a href="https://www.apinfo.com/apinfo/inc/sal.cfm">Planilha CLT x PJ</a></li>
+								<li><a href="https://www.apinfo2.com/apinfo/informacao/p22sumario.cfm">Prof mais requisitados</a></li>
+								<li><a href="https://www.apinfo2.com/apinfo/inc/itforum1.cfm">Fórum</a></li>
+								<li><a href="https://www.apinfo2.com/apinfo/inc/ithelpl.cfm">IT Help</a></li>
+								<li><a href="https://www.apinfo2.com/apinfo/inc/ithelpjl.cfm">Fórum Jurídico</a></li>
+								<li><a href="https://www.apinfo2.com/apinfo/inc/espaco_opiniao.cfm">Espaço Opinião</a></li>
+								<li><a href="https://www.apinfo2.com/apinfo/inc/itguestl.cfm">Depoimentos</a></li>
+							</ul>
+						</li>
+						<li><a href="https://www.apinfo.com/apinfo/inc/fale.cfm">Fale Conosco</a></li>
+					</ul>
+				</section>
+			</nav>
+		</div>
+	</div>
+<!-- / TOPO DO SITE -->
+<!-- CONTEÃšDO -->
+	<div class="container m-t">
+<div class="five columns">
+  <div class="form border half-bottom">
+    <h2 class="title-lateral pd">Filtros da Pesquisa</h2>
+    <p>&nbsp;&nbsp;<a href="list4.cfm?wparam=9X9" >Limpar Pesquisa</a></p>
+
+  	<form action="list4.cfm" method="post" id="form-busca" class="pd">
+	<input type="hidden" name="tcv"     value="1">
+	<input type="hidden" name="pag"     value="1">
+
+			<h3 class="tlt-sessao">Data: <small>(dd/mm/aa) (opcional)</small> </h3>
+			<table>
+				<tr>
+					<td>De: <input type="text" name="ddmmaa1" id="data" class="i-data dataformato" value="" maxlength="08" title="De"></td>
+					<td>Até: <input type="text" name="ddmmaa2" id="data" class="i-data dataformato" value="" maxlength="08" title="Até"></td>
+				</tr>
+			</table>
+
+			<h3 class="tlt-sessao">Palavras-chave ou código da vaga : <small>&nbsp;&nbsp;(opcional)</small></h3>
+			<input type="text" name="keyw" id="keyw" value="React"  maxlength="40" title="Palavra-chave">
+			<hr>
+			<label for="radio3">
+				<input id="radio3" type="radio" value="1" name="onde" checked>
+				<span>Pesquisar apenas no titulo da vaga</span>
+			</label>
+			<label for="radio4">
+				<input id="radio4" type="radio" value="2" name="onde" >
+				<span>Pesquisar : titulo / Descrição / cidade</span>
+			</label>
+			<hr>
+			<label for="radio1">
+				<input id="radio1" type="radio" value="1" name="andor" checked>
+				<span>Todas as palavras devem estar presentes</span>
+			</label>
+			<label for="radio2">
+				<input id="radio2" type="radio" value="2" name="andor" >
+				<span>Alguma das palavras deve estar presente</span>
+			</label>
+
+</P>
+	<div class="btn-submit center">
+	<input type="submit" value="Filtrar" id="">
+	<hr>
+	</div>
+	
+    <div>
+
+<a href="https://www.apinfo.com/cgi/clickba.cfm?empre=apipesq23b" target="_top2">
+ <img src="https://www.apinfo.com/banner/apiresultpesqbt.gif"
+ alt="apipesq" border="0"></a>
+<p> <br></p>
+	</div>
+
+    <div>
+
+<a href="https://www.apinfo.com/cgi/clickba.cfm?empre=pesqapibt2" target="_top2">
+ <img src="https://www.apinfo.com/banner/p19bot.gif"
+ alt="pesqapi19" border="0"></a>
+<p> <br></p>
+	</div>
+
+    <div>
+
+<a href="https://www.apinfo.com/cgi/clickba.cfm?empre=ItHelp" target="_top2">
+ <img src="https://www.apinfo.com/banner/ithelp.jpg"
+ alt="ItHelp" border="0"></a>
+<p> <br></p>
+	</div>
+
+
+<!--
+	<div>
+		<center><img src="https://www.apinfo.com/apinfo/banner/api-vx.gif" alt="Apinfo"></center>
+	</div>
+-->
+
+
+<h3 class="tlt-sessao">Estado</h3><label><input type=checkbox name=estado[] value=SP>&nbsp;&nbsp;São Paulo <span> (7) </span> <br><input type=checkbox name=estado[] value=HO>&nbsp;&nbsp;<span style="background-color: #FFFF00">Home Office</span> <span> (5) </span> <br><input type=checkbox name=estado[] value=RS>&nbsp;&nbsp;Rio Grande do Sul <span> (1) </span> <br></label><h3 class="tlt-sessao">Cidade :</h3><label><input type=checkbox name=cod_cidade[] value=1000>&nbsp;&nbsp;São Paulo <span> (6) </span> <br><input type=checkbox name=cod_cidade[] value=601>&nbsp;&nbsp;Home Office <span> (5) </span> <br><input type=checkbox name=cod_cidade[] value=90000>&nbsp;&nbsp;Porto Alegre <span> (1) </span> <br><input type=checkbox name=cod_cidade[] value=6000>&nbsp;&nbsp;Osasco <span> (1) </span> <br></label><h3 class="tlt-sessao">Cargo :</h3><label><input type=checkbox name=cargo2cod[] value=27>&nbsp;&nbsp;Programador / Desenvolvedor <span> (7) </span> <br><input type=checkbox name=cargo2cod[] value=21>&nbsp;&nbsp;Analista Programador / Desenvolvedor <span> (6) </span> <br></label></form></div></div>
+<!-- bloco principal -->
+<div class="eleven columns">
+	<div class="principal">
+		<section class="half-bottom border clearfix">
+			<h2 class="title">
+				Resultado da pesquisa :
+			</h2>
+			<div class="complemento pd">
+				<strong>Encontradas : 13 vagas </strong> - Mostrando de 1 até 8		    </div>
+			<div id="vagas" class="m-tb">
+			
+
+<div style="background: linear-gradient(135deg, #00c9ff, #92fe9d); color: #fff; padding: 30px; border-radius: 12px; font-family: 'Segoe UI', sans-serif; box-shadow: 0 4px 12px rgba(0,0,0,0.2); animation: pulse 2s infinite;">
+  <h2 style="font-size: 2em; margin-bottom: 10px;">Resultado da Pesquisa Salarial 2025</h2>
+  <p style="font-size: 1.2em; margin-bottom: 20px;">Descubra os salários médios, formas de trabalho, tendências do mercado, uso de IA e etc. Dados atualizados para orientar sua carreira ou decisões estratégicas.</p>
+  <a href="https://www.apinfo2.com/apinfo/informacao/p25sumario.cfm" style="background-color: #fff; color: #00c9ff; padding: 12px 24px; border-radius: 8px; text-decoration: none; font-weight: bold; transition: background 0.3s;">Ver Relatório Completo</a>
+</div>
+
+<style>
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.02); }
+  100% { transform: scale(1); }
+}
+</style>
+
+			 <p> <br> </p>
+
+			
+
+				<div class="box-vagas linha pd">
+					<div class="info-data">
+						São Paulo - SP - 15/09/26					</div>
+					<div class="cargo m-tb">
+						<span>Desenvolvedor Mobile – <span class="highlight"><span style="background-color: #FFFF00"><span style="background-color: #FFFF00">React</span></span></span> Native / Xamarin</span>
+					</div>
+					<div class="texto">
+<p style="white-space:pre-wrap; "> <br>Desenvolvedor Mobile – React Native / Xamarin <br>Prazo: 3 meses, com chances de prorrogação <br>Local: Híbrido, Av. Paulista/SP <br>Contratação: CLT com benefícios <br> <br>Requisitos: <br>Atuação no desenvolvimento e manutenção de aplicações mobile para atender demandas de <br>negócio, utilizando tecnologias multiplataforma como Xamarin e React Native. <br> <br>Atividades: <br>Responsável pela criação de soluções modernas e escaláveis, integração com APIs e serviços <br>corporativos, além de garantir a qualidade das entregas por meio de automação de testes. <br>Participação em práticas de DevOps e gestão de código-fonte com GitHub, contribuindo para entregas ágeis, seguras e colaborativas. <br>Desenvolvimento focado em inovação, confiabilidade, performance e experiência do usuário (UX).						</p>
+						<p>
+                         <strong>Empresa .....:</strong>  Entrust IT<BR>
+                         <strong>Código .......:</strong>   86113						<a class="btn3 "href="https://www.apinfo.com/apinfo/inc/enviecv.cfm?codvaga=86113&pkey=ZwYYrwYKskvZwhrxjnScytqqTzWqzzEWbqq"> Envie seu currículo </a>
+<p><br> </p>
+					</div>
+				</div>
+
+				<div class="box-vagas linha pd">
+					<div class="info-data">
+						Home Office - HO - 11/09/26					</div>
+					<div class="cargo m-tb">
+						<span>Desenvolvedor Full Stack Sênior C#.NET Node <span class="highlight"><span style="background-color: #FFFF00"><span style="background-color: #FFFF00">React</span></span></span></span>
+					</div>
+					<div class="texto">
+<p style="white-space:pre-wrap; "> <br>Sobre a oportunidade <br> <br>Buscamos uma pessoa Desenvolvedor Fullstack para atuar no desenvolvimento, evolução e <br>sustentação de aplicações web, com foco em soluções escaláveis, integradas e relevantes para o negócio. <br> <br>A posição tem forte atuação em backend, especialmente com Node.js, NestJS, C# e .NET, além de <br>participação no desenvolvimento frontend com React.js e Next.js. O contexto envolve construção e <br>consumo de APIs, integrações entre sistemas, arquitetura orientada a eventos, uso de serviços em <br>nuvem e atuação com diferentes bases de dados. <br> <br>Também buscamos uma pessoa com maturidade técnica para contribuir em decisões de <br>arquitetura, qualidade de engenharia, sustentação de ambientes produtivos e evolução contínua <br>das aplicações, considerando estabilidade, segurança, observabilidade, escalabilidade e manutenibilidade. <br> <br>Responsabilidades <br>Desenvolver, manter e evoluir aplicações fullstack, atuando em backend, frontend e						</p>
+						<p>
+                         <strong>Empresa .....:</strong>  PSW<BR>
+                         <strong>Código .......:</strong>   85981						<a class="btn3 "href="https://www.apinfo.com/apinfo/inc/enviecv.cfm?codvaga=85981&pkey=ZwYYrwkFrKvZwhrxcIrnytqqTzWqsbsTbqq"> Envie seu currículo </a>
+<p><br> </p>
+					</div>
+				</div>
+
+				<div class="box-vagas linha pd">
+					<div class="info-data">
+						Home Office - HO - 10/09/26					</div>
+					<div class="cargo m-tb">
+						<span>Desenvolvedor Fullstack (Node e <span class="highlight"><span style="background-color: #FFFF00"><span style="background-color: #FFFF00">React</span></span></span>) Sr.</span>
+					</div>
+					<div class="texto">
+<p style="white-space:pre-wrap; "> <br>Oportunidade para atuar em novos projetos e evolução de aplicações em uma das maiores <br>operadoras de saúde do Brasil. <br> <br>Desenvolvimento de aplicações com Node.js e React <br>Criação e evolução de APIs RESTful <br>Modelagem e integração com MongoDB <br>Desenvolvimento de novas funcionalidades e melhorias de arquitetura <br>Atuação com code review, testes e integração contínua. <br> <br>Requisitos: <br>Experiência sólida com Node.js (Express/NestJS) e React <br>Conhecimento em MongoDB <br>Arquitetura de software, Design Patterns e Clean Code <br>Conhecimentos em TypeScript, microsserviços e mensageria (Kafka/RabbitMQ) <br>Docker, CI/CD e Cloud (AWS, Azure ou GCP) serão diferenciais <br>Vivência no segmento de Saúde será um diferencial. <br> <br>Modelo: Híbrido – 1x por semana presencial, próximo à estação Morumbi/SP <br>Contratação: PJ – 44h semanais						</p>
+						<p>
+                         <strong>Empresa .....:</strong>  TalentGroup<BR>
+                         <strong>Código .......:</strong>   85898						<a class="btn3 "href="https://www.apinfo.com/apinfo/inc/enviecv.cfm?codvaga=85898&pkey=ZwYYrwkYFrvZwhrxcjIrytqqTzWqWzbWbqq"> Envie seu currículo </a>
+<p><br> </p>
+					</div>
+				</div>
+
+				<div class="box-vagas linha pd">
+					<div class="info-data">
+						Osasco - SP - 10/09/26					</div>
+					<div class="cargo m-tb">
+						<span>Desenvolvedor(a) Júnior — Full Stack <span class="highlight"><span style="background-color: #FFFF00"><span style="background-color: #FFFF00">React</span></span></span> + Node</span>
+					</div>
+					<div class="texto">
+<p style="white-space:pre-wrap; "> <br>Desenvolvedor(a) Júnior — Full Stack (React + Node) <br>Coco Bambu · Osasco/SP · Híbrido, próximo à estação <br> <br>Você vai desenvolver módulos do portal interno do grupo Coco Bambu: telas em React, APIs, <br>banco de dados e integrações com sistemas de terceiros. <br> <br>Requisitos <br>• React — componentes, hooks e gerenciamento de estado <br>• TypeScript — código tipado, interfaces e tipos <br>• HTML5 e CSS3 — páginas responsivas (desktop, tablet e celular) <br>• SQL — consultas, junções, inserções e atualizações <br>• Node.js — fundamentos de backend e APIs REST <br>• Git — branches, commits e pull requests <br> <br>Diferenciais <br>Supabase ou Firebase, Tailwind CSS, integração via API ou webhook, testes automatizados e uso <br>de IA no dia a dia (Claude, Copilot, Cursor) sabendo revisar o que ela gera — é assim que o time trabalha. <br> <br>Benefícios: VR, VA, VT/VC, Plano de Saúde e Odontológico e desconto na rede Coco Bambu. <br> <br>CLT. <br> <br>Envie seu currículo com a pretensão salarial.						</p>
+						<p>
+                         <strong>Empresa .....:</strong>  Coco Bambu<BR>
+                         <strong>Código .......:</strong>   86193						<a class="btn3 "href="https://www.apinfo.com/apinfo/inc/enviecv.cfm?codvaga=86193&pkey=ZwYYrwvvZkvZwhrxMMvcytqqTzWqHbqWbqq"> Envie seu currículo </a>
+<p><br> </p>
+					</div>
+				</div>
+
+				<div class="box-vagas linha pd">
+					<div class="info-data">
+						Porto Alegre - RS - 10/09/26					</div>
+					<div class="cargo m-tb">
+						<span>Desenvolvedor Fullstack .Net e <span class="highlight"><span style="background-color: #FFFF00"><span style="background-color: #FFFF00">React</span></span></span></span>
+					</div>
+					<div class="texto">
+<p style="white-space:pre-wrap; "> <br>A Tech For está com oportunidade para atuação em cliente especialista em Segurança da Informação e Cibersegurança. <br> <br>Modelo híbrido – 2x por semana <br>Região: São Leopoldo / Porto Alegre / Grande Porto Alegre – RS <br>Contratação PJ <br> <br>Requisitos principais: <br>Front-end: JavaScript, TypeScript, Vue.js, React 18, Quasar, Vite, TailwindCSS e Shadcn/ui <br>Back-end: C#, .NET/.NET Core, APIs REST e Python para automações <br>Banco de dados: PostgreSQL, MySQL, SQL Server e Supabase <br>Conhecimentos em performance, cache, TanStack Query e gerenciamento assíncrono <br> <br>Diferenciais: <br>LLMs, IA Generativa, RAG, Engenharia de Prompt, MCP, Docker, Linux, Azure/AWS e conceitos de segurança da Informação.						</p>
+						<p>
+                         <strong>Empresa .....:</strong>  Tech For TI<BR>
+                         <strong>Código .......:</strong>   85023						<a class="btn3 "href="https://www.apinfo.com/apinfo/inc/enviecv.cfm?codvaga=85023&pkey=ZwYYZsZkrkvZwhvSvcrcytqqTztqqsWWbqq"> Envie seu currículo </a>
+<p><br> </p>
+					</div>
+				</div>
+
+				<div class="box-vagas linha pd">
+					<div class="info-data">
+						São Paulo - SP - 08/09/26					</div>
+					<div class="cargo m-tb">
+						<span>Desenvolvedor(a) Fullstack Java/<span class="highlight"><span style="background-color: #FFFF00"><span style="background-color: #FFFF00">React</span></span></span> Sênior</span>
+					</div>
+					<div class="texto">
+<p style="white-space:pre-wrap; "> <br>Na Beyond Soluções, conectamos talentos a projetos de alto impacto no setor financeiro. <br>Buscamos um(a) Desenvolvedor(a) Full Stack com perfil amplo, visão de produto e autonomia <br>técnica para soluções de missão crítica. <br> <br>Requisitos: <br>• Backend: Java (Quarkus ou Spring Boot), microsserviços, arquitetura distribuída <br>(filas, cache, resiliência), SQL Server e MongoDB. <br>• Frontend  Mobile: Domínio de React (TypeScript) e React Native. Autonomia para replicar no <br>App as frentes do Internet Banking web, com foco em segurança mobile (biometria e RASP). <br>• Cloud  Engenharia: AWS (containers, filas, desacoplamento), Docker, Clean Code, testes <br>automatizados, SonarQube, Git, CI/CD, logs e investigação de incidentes em produção. <br>• Soft Skills: Autonomia, colaboração, proatividade e comunicação clara. <br> <br>Diferenciais: <br>• Node.js/NestJS e Kubernetes. <br>• Vivência em meios de pagamento, integrações de core bancário (Autbank, Matera) e uso de IA no <br>código.						</p>
+						<p>
+                         <strong>Empresa .....:</strong>  Beyond Soluções<BR>
+                         <strong>Código .......:</strong>   85895						<a class="btn3 "href="https://www.apinfo.com/apinfo/inc/enviecv.cfm?codvaga=85895&pkey=ZwYYrwkYrZvZwhrxcjrvytqqTzWqWzsqbqq"> Envie seu currículo </a>
+<p><br> </p>
+					</div>
+				</div>
+
+				<div class="box-vagas linha pd">
+					<div class="info-data">
+						São Paulo - SP - 05/09/26					</div>
+					<div class="cargo m-tb">
+						<span>Desenvolvedor Front-End <span class="highlight"><span style="background-color: #FFFF00"><span style="background-color: #FFFF00">React</span></span></span></span>
+					</div>
+					<div class="texto">
+<p style="white-space:pre-wrap; "> <br>Desenvolvimento Frontend: Criação de interfaces web utilizando React.js, Hooks, Context API e <br>gerenciadores de estado (Redux/Zustand), garantindo componentização e reutilização de código. <br>Integração e Backend: Consumo e integração de APIs RESTful/GraphQL e conhecimento prático em <br>bancos de dados relacionais ou não relacionais (PostgreSQL, MySQL, MongoDB). <br>Qualidade de Código: Experiência com testes automatizados (Jest, React Testing Library e/ou <br>frameworks de backend como JUnit/Mockito). <br>Fundamentos de Engenharia: Aplicação de boas práticas de desenvolvimento (Clean Code, princípios <br>SOLID) e controle de versão com Git. <br>Cultura DevOps  Nuvem: Vivência com Docker, esteiras de CI/CD e deploy em ambientes de nuvem <br>(AWS, Azure ou GCP). <br> <br>Metodologias Ágeis: Experiência de trabalho em times que utilizam Scrum ou Kanban. <br> <br>Local: São Paulo						</p>
+						<p>
+                         <strong>Empresa .....:</strong>  K2 Partnering<BR>
+                         <strong>Código .......:</strong>   85989						<a class="btn3 "href="https://www.apinfo.com/apinfo/inc/enviecv.cfm?codvaga=85989&pkey=ZwYYrwksYvvZwhrxcSjMytqqTzWqsETHbqq"> Envie seu currículo </a>
+<p><br> </p>
+					</div>
+				</div>
+
+				<div class="box-vagas linha pd">
+					<div class="info-data">
+						São Paulo - SP - 05/09/26					</div>
+					<div class="cargo m-tb">
+						<span>Programador C# <span class="highlight"><span style="background-color: #FFFF00"><span style="background-color: #FFFF00">React</span></span></span> Jr</span>
+					</div>
+					<div class="texto">
+<p style="white-space:pre-wrap; "> <br>Vaga: Desenvolvedor(a) Júnior — C# / React <br> <br>Estamos buscando um(a) Desenvolvedor(a) Júnior para integrar nosso time de <br>tecnologia e atuar no desenvolvimento e manutenção de soluções para o mercado de jogos. <br> <br>Responsabilidades: <br>• Criar e manter APIs utilizando C#/.NET <br>• Desenvolver APIs para integração com nossos jogos <br>• Integrar sistemas com APIs de terceiros <br>• Dar manutenção e implementar melhorias nas APIs existentes <br>• Desenvolver e manter interfaces em React <br>• Corrigir bugs e apoiar na melhoria de desempenho, segurança e estabilidade <br>• Participar do desenvolvimento de novas funcionalidades e integrações. <br> <br>Requisitos: <br>• Conhecimento em C# e .NET <br>• Conhecimento em APIs REST <br>• Conhecimento em React <br>• Noções de JavaScript/TypeScript, HTML e CSS <br>• Conhecimento básico de SQL e Git <br>• Perfil proativo, curioso e com vontade de aprender. <br> <br>Diferenciais: ASP.NET Core,  Docker, AWS e experiência com <br>integrações de APIs. <br> <br>Contratação PJ  Presencial  São Paulo/SP						</p>
+						<p>
+                         <strong>Empresa .....:</strong>  SHOW BALL INFORMATICA LTDA<BR>
+                         <strong>Código .......:</strong>   86158						<a class="btn3 "href="https://www.apinfo.com/apinfo/inc/enviecv.cfm?codvaga=86158&pkey=ZwYYrwvkwrvZwhrxMcxrytqqTzWqHWtWbqq"> Envie seu currículo </a>
+<p><br> </p>
+					</div>
+				</div>
+</div>
+   <center>
+<a href="https://www.apinfo.com/cgi/clickba.cfm?empre=apiforum2" target="_top">
+ <img src="https://www.apinfo.com/banner/foruming.gif"
+ alt="apiforuming" border="0"></a>
+ </center>
+<form METHOD="POST" ACTION="list4.cfm"><input type="hidden" name="pkey"    value="ZwYYxqhhtwvtlvYkZwZqKYY">
+<input type="hidden" name="tcv"     value="13">
+<input type="hidden" name="ddmmaa1" value="">
+<input type="hidden" name="ddmmaa2" value="">
+<input type="hidden" name="onde"    value="1">
+<input type="hidden" name="andor"   value="1">
+<input type="hidden" name="keyw"    value="React">
+<hr>
+<div class="complemento m-tb">
+	<div class="n-paginas">
+	<strong>Página 1 de 2 </strong>
+	</div>
+	<div class="paginacao pd">
+		<table bgColor="#ffff80" class="fright">
+		<tr>
+		<td> <a href="list4.cfm?wparam=ZwYYxqhhtwvtlvYkZwZqKYY,1,0,1,0,2,0,1,2" >Nova Pesquisa</a></td>
+		<td class="separa"></td>
+		<td><strong>Pular para a página : </td></strong>
+		<td><input type="text" name="pag" value="2" maxsize="4" maxlength="4"></td>
+		<td><input type="submit" value="OK"> </td>
+		</tr>
+		</table>
+    </div>
+</div>
+ </form>
+</div>
+</div>
+</section>
+<!-- /bloco principal â†‘ -->
+</div>
+</div>
+	<div class="container">
+
+		<div class="sixteen columns">
+
+			<footer id="rodape">
+
+				<div class="sixteen columns">
+					<div class="three columns">
+						<ul>
+							<li class="titulo">Institucional</li>
+							<li><a href="https://www.apinfo.com/apinfo/inc/sobre.cfm">Sobre</a></li>
+							<li><a href="https://www.apinfo.com/apinfo/inc/fale.cfm">Fale conosco</a></li>
+							<li><a href="https://www.apinfo2.com/apinfo/inc/itguestl.cfm">Livro de visitas</a></li>
+							<li><a href="https://www.apinfo.com/apinfo/inc/politica_privacidade.cfm">Politica de Privacidade</a></li>
+							<li><a href="https://www.apinfo.com/apinfo/inc/politica_cookies.cfm">Politica de cookies</a></li>
+						</ul>
+					</div>
+					<div class="three columns">
+						<ul>
+							<li class="titulo">Profissionais</li>
+								<li><a href="https://www.apinfo.com/apinfo/inc/list4.cfm">Pesquisar Vagas</a></li>
+								<li><a href="https://www.apinfo2.com/apinfo/inc/cv-inc.cfm">Incluir Currículo</a></li>
+								<li><a href="https://www.apinfo2.com/apinfo/inc/validas.cfm">Atualizar Currículo</a></li>
+								<li><a href="https://www.apinfo2.com/apinfo/inc/cv-exc.cfm">Excluir Currículo</a></li>
+								<li><a href="https://www.apinfo.com/apinfo/inc/faqp.cfm">Perguntas frequentes</a></li>
+						</ul>
+					</div>
+					<div class="three columns">
+						<ul>
+							<li class="titulo">Empresas</li>
+								<li><a href="https://www.apinfo2.com/apinfo/inc/pesq9a.cfm">Pesquisar Currículo</a></li>
+								<li><a href="https://www.apinfo2.com/apinfo/inc/pesqentra2.cfm">Pesquisa Avançada CV</a></li>
+								<li><a href="https://www.apinfo.com/apinfo/inc/incofe01.cfm">Incluir Vaga</a></li>
+								<li><a href="https://www.apinfo.com/apinfo/inc/alterar_vaga.cfm">Alterar Vaga</a></li>
+								<li><a href="https://www.apinfo.com/apinfo/inc/excofe.cfm">Excluir Vaga</a></li>
+							   <li><a href="https://www.apinfo.com/apinfo/inc/faqe.cfm">Perguntas frequentes</a></li>
+						</ul>
+					</div>
+					<div class="three columns">
+						<ul>
+							<li class="titulo">Informação</li>
+								<li><a href="https://www.apinfo2.com/apinfo/inc/ithelpl.cfm">IT Help</a></li>
+								<li><a href="https://www.apinfo2.com/apinfo/inc/ithelpjl.cfm">Fórum Jurídico</a></li>
+								<li><a href="https://www.apinfo2.com/apinfo/inc/itforum1.cfm">Fórum</a></li>
+								<li><a href="https://www.apinfo2.com/apinfo/inc/resultados_pesquisas.cfm">Resultados Pesquisas</a></li>
+								<li><a href="https://www.apinfo2.com/apinfo/inc/itguestl.cfm">Guestbook</a></li>
+ 						</ul>
+					</div>
+					<div class="three columns">
+						<ul>
+							<li class="titulo">Informação</li>
+		        			<li><a href="https://www.apinfo2.com/apinfo/informacao/p25sal-br.cfm">Salários</a></li>
+							<li><a href="https://www.apinfo.com/apinfo/inc/sal.cfm">Planilha CLT x PJ</a></li>
+
+ 						</ul>
+					</div>
+				</div>
+
+				<div class="sub-footer sixteen columns">
+					<img src="https://www.apinfo.com/apinfo/assets/img/logo_rodape.jpg" alt="APinfo" title="APinfo">
+					<p>
+						2026 Todos os direitos reservados APinfo - Site ativo desde 1997 <br>
+						<span>É proibida a reprodução do conteúdo deste site, em qualquer meio, eletrônico ou impresso, sem autorização escrita.</span>
+					</p>
+
+				</div>
+
+			</footer>
+		</div>
+
+	</div><!-- container -->
+
+	<script src="https://www.apinfo.com/apinfo/assets/js/jquery.validate.js"></script>
+	<script src="https://www.apinfo.com/apinfo/assets/js/valida.form.js"></script>
+	<script src="https://www.apinfo.com/apinfo/assets/js/jquery.maskedinput-1.2.2.min.js"></script>
+	<script src="https://www.apinfo.com/apinfo/assets/js/funcoes.js"></script>
+
+	<link rel="stylesheet" href="https://www.apinfo.com/apinfo/assets/css/cookieconsent.min.css">
+	<script src="https://www.apinfo.com/apinfo/assets/js/cookieconsent.min.js"></script>
+
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+"palette": {
+"popup": {
+"background": "#0186d3;",
+"text": "#b2d192"
+},
+"button": {
+"background": "#1e88e5;"
+}
+},
+"content": {
+"message": "O site apinfo usa cookies para garantir que você obtenha a melhor experiência.",
+"link": "Politica de Cookies",
+"dismiss": "Eu concordo !",
+"href": "https://www.apinfo.com/apinfo/inc/politica_cookies.cfm"
+
+}
+})});
+</script>
+	
+	
+
+	<div id="light-info">
+		<div class="wp">
+			<span id="close">
+				<a href="">X</a>
+			</span>
+			<div id="box-content"></div>
+		</div>
+	</div>
+
+</body>
+</html>
+

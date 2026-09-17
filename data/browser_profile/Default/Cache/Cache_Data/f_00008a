@@ -1,0 +1,508 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="pt-br"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="pt-br"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="pt-br"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="pt-br"> <!--<![endif]-->
+<head>
+<META http-equiv=Content-Language content=pt-br>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+	<title>APinfo - O ponto de encontro dos profissionais de informática</title>
+	<meta name="description" content="Banco de curriculum de profissionais de informática, empregos, vagas,pesquisas, tabelas salariais e suporte tecnico">
+	<meta name="keywords" content="Salarios, salários, tabelas, profissionais, empregos,informática, informatica, analistas, sistemas, gerentes, programadores, consultores, trabalho, duvida, suporte, dicas, free, pesquisas">
+	<meta name="author" content="Apinfo">
+
+	<!-- Mobile Specific Metas
+  ================================================== -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+	<!-- CSS
+  ================================================== -->
+	<link rel="stylesheet" href="https://www.apinfo.com/apinfo/assets/css/base.css">
+	<link rel="stylesheet" href="https://www.apinfo.com/apinfo/assets/css/skeleton.css">
+	<link rel="stylesheet" href="https://www.apinfo.com/apinfo/assets/css/style2.css">
+
+	<!--[if lt IE 9]>
+		<link rel="stylesheet" href="https://www.apinfo.com/apinfo/assets/css/ie.css">
+		<script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+	<link rel="shortcut icon" href="https://www.apinfo.com/apinfo/assets/favicon.ico">
+	<link rel="apple-touch-icon" href="https://www.apinfo.com/apinfo/assets/img/apple-touch-icon.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="https://www.apinfo.com/apinfo/assets/img/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="https://www.apinfo.com/apinfo/assets/img/apple-touch-icon-114x114.png">
+
+	<!-- Facebook Open Graph meta tags
+	============================================== -->
+	<meta name="og:title" content="APinfo - O ponto de encontro dos profissionais de informática"/>
+	<meta name="og:url" content="https://www.apinfo.com"/>
+	<meta name="og:image" content="https://www.apinfo.com/apinfo/assets/img/logo.jpg"/>
+	<meta name="og:site_name" content="APinfo"/>
+	<meta name="og:description" content="Banco de curriculum de profissionais de informática, empregos, vagas,pesquisas, tabelas salariais e suporte tecnico"/>
+
+	<!-- JS
+	============================================== -->
+	<script src="https://www.apinfo.com/apinfo/assets/js/modernizr.js"></script>
+	<script src="https://www.apinfo.com/apinfo/assets/js/jquery-3.3.1.min.js"></script>
+	<script src="https://www.apinfo.com/apinfo/assets/js/jquery.placeholder.js"></script>
+
+	<script src="https://www.google.com/jsapi"></script>
+
+	<script src="https://www.apinfo.com/apinfo/assets/js/jquery.mask.min.js"></script>
+
+	<script src="https://www.apinfo.com/apinfo/assets/js/jquery.autocomplete.min.js"></script>
+	<script src="https://www.apinfo.com/apinfo/assets/js/currency-autocompletet.js"></script>
+
+</head>
+<body>
+	<div class="top-shortcut">
+		<span><strong>O ponto de encontro dos profissionais de informática </strong></span>
+	</div>
+	<div class="container">
+		<div class="eight columns">
+			<h1 class="logo m-tb">
+				<a href="https://www.apinfo.com/apinfo/index.cfm" title="APinfo">APinfo</a>
+			</h1>
+		</div>
+		<div class="eight columns">
+			<div class="publicidade-home half-bottom">
+				
+   <center>
+<a href="https://www.apinfo.com/cgi/clickba.cfm?empre=apipesq23" target="_top">
+ <img src="https://www.apinfo.com/banner/apiresultpesq.gif"
+ alt="apipesq" border="0"></a>
+ </center>
+			</div>
+		</div>
+	</div>
+	<div class="container">
+		<div class="sixteen columns">
+			<div class="btn-mobile">
+				<a href="https://www.apinfo.com/apinfo/#" class="fright" id="m-menu">
+					<span class="btn-menu"></span>
+					<span class="btn-menu"></span>
+					<span class="btn-menu"></span>
+				</a>
+			</div>
+			<nav class="top-menu">
+				<section class="top-menu-section">
+					<ul>
+						<li class="has-dropdown"><a href="https://www.apinfo.com/apinfo/#">Profissionais</a>
+							<ul class="dropdown">
+								<li><a href="https://www.apinfo.com/apinfo/inc/list4.cfm">Pesquisar Vagas</a></li>
+								<li><a href="https://www.apinfo2.com/apinfo/inc/cv-inc.cfm">Incluir Currículo</a></li>
+								<li><a href="https://www.apinfo2.com/apinfo/inc/validas.cfm">Atualizar Currículo</a></li>
+								<li><a href="https://www.apinfo2.com/apinfo/inc/cv-exc.cfm">Excluir Currículo</a></li>
+								<li><a href="https://www.apinfo.com/apinfo/inc/faqp.cfm">Perguntas frequentes</a></li>
+							</ul>
+						</li>
+						<li class="has-dropdown"><a href="https://www.apinfo.com/apinfo/#">Empresas</a>
+							<ul class="dropdown">
+								<li><a href="https://www.apinfo2.com/apinfo/inc/pesq9a.cfm">Pesquisar Currículo</a></li>
+								<li><a href="https://www.apinfo2.com/apinfo/inc/pesqentra2.cfm">Pesquisa Avançada CV</a></li>
+								<li><a href="https://www.apinfo.com/apinfo/inc/incofe01.cfm">Incluir Vaga</a></li>
+								<li><a href="https://www.apinfo.com/apinfo/inc/alterar_vaga.cfm">Alterar Vaga</a></li>
+								<li><a href="https://www.apinfo.com/apinfo/inc/excofe.cfm">Excluir Vaga</a></li>
+								<li><a href="https://www.apinfo.com/apinfo/inc/faqe.cfm">Perguntas frequentes</a></li>
+							</ul>
+						</li>
+						<li class="has-dropdown"><a href="https://www.apinfo.com/apinfo/#">Informação</a>
+							<ul class="dropdown">
+								<li><a href="https://www.apinfo2.com/apinfo/inc/resultados_pesquisas.cfm">Resultado Pesquisa</a></li>
+								<li><a href="https://www.apinfo2.com/apinfo/informacao/p23sal-br.cfm">Salários</a></li>
+								<li><a href="https://www.apinfo.com/apinfo/inc/sal.cfm">Planilha CLT x PJ</a></li>
+								<li><a href="https://www.apinfo2.com/apinfo/informacao/p22sumario.cfm">Prof mais requisitados</a></li>
+								<li><a href="https://www.apinfo2.com/apinfo/inc/itforum1.cfm">Fórum</a></li>
+								<li><a href="https://www.apinfo2.com/apinfo/inc/ithelpl.cfm">IT Help</a></li>
+								<li><a href="https://www.apinfo2.com/apinfo/inc/ithelpjl.cfm">Fórum Jurídico</a></li>
+								<li><a href="https://www.apinfo2.com/apinfo/inc/espaco_opiniao.cfm">Espaço Opinião</a></li>
+								<li><a href="https://www.apinfo2.com/apinfo/inc/itguestl.cfm">Depoimentos</a></li>
+							</ul>
+						</li>
+						<li><a href="https://www.apinfo.com/apinfo/inc/fale.cfm">Fale Conosco</a></li>
+					</ul>
+				</section>
+			</nav>
+		</div>
+	</div>
+<!-- / TOPO DO SITE -->
+<!-- CONTEÃšDO -->
+	<div class="container m-t">
+<div class="five columns">
+  <div class="form border half-bottom">
+    <h2 class="title-lateral pd">Filtros da Pesquisa</h2>
+    <p>&nbsp;&nbsp;<a href="list4.cfm?wparam=9X9" >Limpar Pesquisa</a></p>
+
+  	<form action="list4.cfm" method="post" id="form-busca" class="pd">
+	<input type="hidden" name="tcv"     value="1">
+	<input type="hidden" name="pag"     value="1">
+
+			<h3 class="tlt-sessao">Data: <small>(dd/mm/aa) (opcional)</small> </h3>
+			<table>
+				<tr>
+					<td>De: <input type="text" name="ddmmaa1" id="data" class="i-data dataformato" value="" maxlength="08" title="De"></td>
+					<td>Até: <input type="text" name="ddmmaa2" id="data" class="i-data dataformato" value="" maxlength="08" title="Até"></td>
+				</tr>
+			</table>
+
+			<h3 class="tlt-sessao">Palavras-chave ou código da vaga : <small>&nbsp;&nbsp;(opcional)</small></h3>
+			<input type="text" name="keyw" id="keyw" value="Python"  maxlength="40" title="Palavra-chave">
+			<hr>
+			<label for="radio3">
+				<input id="radio3" type="radio" value="1" name="onde" checked>
+				<span>Pesquisar apenas no titulo da vaga</span>
+			</label>
+			<label for="radio4">
+				<input id="radio4" type="radio" value="2" name="onde" >
+				<span>Pesquisar : titulo / Descrição / cidade</span>
+			</label>
+			<hr>
+			<label for="radio1">
+				<input id="radio1" type="radio" value="1" name="andor" checked>
+				<span>Todas as palavras devem estar presentes</span>
+			</label>
+			<label for="radio2">
+				<input id="radio2" type="radio" value="2" name="andor" >
+				<span>Alguma das palavras deve estar presente</span>
+			</label>
+
+</P>
+	<div class="btn-submit center">
+	<input type="submit" value="Filtrar" id="">
+	<hr>
+	</div>
+	
+    <div>
+
+<a href="https://www.apinfo.com/cgi/clickba.cfm?empre=apipesq23b" target="_top2">
+ <img src="https://www.apinfo.com/banner/apiresultpesqbt.gif"
+ alt="apipesq" border="0"></a>
+<p> <br></p>
+	</div>
+
+    <div>
+
+<a href="https://www.apinfo.com/cgi/clickba.cfm?empre=pesqapibt2" target="_top2">
+ <img src="https://www.apinfo.com/banner/p19bot.gif"
+ alt="pesqapi19" border="0"></a>
+<p> <br></p>
+	</div>
+
+    <div>
+
+<a href="https://www.apinfo.com/cgi/clickba.cfm?empre=ItHelp" target="_top2">
+ <img src="https://www.apinfo.com/banner/ithelp.jpg"
+ alt="ItHelp" border="0"></a>
+<p> <br></p>
+	</div>
+
+
+<!--
+	<div>
+		<center><img src="https://www.apinfo.com/apinfo/banner/api-vx.gif" alt="Apinfo"></center>
+	</div>
+-->
+
+
+<h3 class="tlt-sessao">Estado</h3><label><input type=checkbox name=estado[] value=SP>&nbsp;&nbsp;São Paulo <span> (13) </span> <br><input type=checkbox name=estado[] value=HO>&nbsp;&nbsp;<span style="background-color: #FFFF00">Home Office</span> <span> (5) </span> <br></label><h3 class="tlt-sessao">Cidade :</h3><label><input type=checkbox name=cod_cidade[] value=1000>&nbsp;&nbsp;São Paulo <span> (13) </span> <br><input type=checkbox name=cod_cidade[] value=601>&nbsp;&nbsp;Home Office <span> (5) </span> <br></label><h3 class="tlt-sessao">Cargo :</h3><label><input type=checkbox name=cargo2cod[] value=21>&nbsp;&nbsp;Analista Programador / Desenvolvedor <span> (8) </span> <br><input type=checkbox name=cargo2cod[] value=27>&nbsp;&nbsp;Programador / Desenvolvedor <span> (7) </span> <br><input type=checkbox name=cargo2cod[] value=116>&nbsp;&nbsp;Engenheiro / Cientista de dados <span> (1) </span> <br><input type=checkbox name=cargo2cod[] value=17>&nbsp;&nbsp;Arquiteto de Sistemas / Soluções <span> (1) </span> <br><input type=checkbox name=cargo2cod[] value=41>&nbsp;&nbsp;Engenheiro de Software <span> (1) </span> <br></label></form></div></div>
+<!-- bloco principal -->
+<div class="eleven columns">
+	<div class="principal">
+		<section class="half-bottom border clearfix">
+			<h2 class="title">
+				Resultado da pesquisa :
+			</h2>
+			<div class="complemento pd">
+				<strong>Encontradas : 18 vagas </strong> - Mostrando de 1 até 8		    </div>
+			<div id="vagas" class="m-tb">
+			
+
+<div style="background: linear-gradient(135deg, #00c9ff, #92fe9d); color: #fff; padding: 30px; border-radius: 12px; font-family: 'Segoe UI', sans-serif; box-shadow: 0 4px 12px rgba(0,0,0,0.2); animation: pulse 2s infinite;">
+  <h2 style="font-size: 2em; margin-bottom: 10px;">Resultado da Pesquisa Salarial 2025</h2>
+  <p style="font-size: 1.2em; margin-bottom: 20px;">Descubra os salários médios, formas de trabalho, tendências do mercado, uso de IA e etc. Dados atualizados para orientar sua carreira ou decisões estratégicas.</p>
+  <a href="https://www.apinfo2.com/apinfo/informacao/p25sumario.cfm" style="background-color: #fff; color: #00c9ff; padding: 12px 24px; border-radius: 8px; text-decoration: none; font-weight: bold; transition: background 0.3s;">Ver Relatório Completo</a>
+</div>
+
+<style>
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.02); }
+  100% { transform: scale(1); }
+}
+</style>
+
+			 <p> <br> </p>
+
+			
+
+				<div class="box-vagas linha pd">
+					<div class="info-data">
+						São Paulo - SP - 16/09/26					</div>
+					<div class="cargo m-tb">
+						<span>Desenvolvedor <span class="highlight"><span style="background-color: #FFFF00"><span style="background-color: #FFFF00">Python</span></span></span> Fullstack - Mooca</span>
+					</div>
+					<div class="texto">
+<p style="white-space:pre-wrap; "> <br>Requisitos obrigatórios <br> <br>TypeScript/React <br>Next.js (App Router/SSR) e Vite <br>Python 3.13 + FastAPI <br>SQLAlchemy (async) + PostgreSQL + Alembic (migrations) <br>Testes automatizados como parte do fluxo normal <br>Git/GitHub e CI/CD (GitHub Actions) <br>Docker <br>APIs REST e Auth (JWT, Firebase Auth) <br> <br>Diferenciais <br>GCP (Cloud Run, Cloud Tasks, Cloud Storage, Cloud KMS) <br>Open finance/open banking brasileiro (Pluggy, Belvo ou similar) <br>Integração com LLMs (API Anthropic/OpenAI), OCR de documentos <br>Ant Design e Radix UI + Tailwind <br>Observabilidade (Sentry, structlog) e ferramentas de qualidade (ruff, mypy/ty, lizard) <br> <br>Capacidade de propor soluções técnicas com foco em qualidade, simplicidade, manutenção e geração de valor. <br> <br>Contrato PJ ou CLT <br>Atuação Presencial - Mooca/SP proximo ao metro Belém <br>Horario: 9H as 18H <br>Início Imediato						</p>
+						<p>
+                         <strong>Empresa .....:</strong>  SorterCurve<BR>
+                         <strong>Código .......:</strong>   86064						<a class="btn3 "href="https://www.apinfo.com/apinfo/inc/enviecv.cfm?codvaga=86064&pkey=YsYYrwYttFYwvhrxjLLIyzETzWqTEqHTqH"> Envie seu currículo </a>
+<p><br> </p>
+					</div>
+				</div>
+
+				<div class="box-vagas linha pd">
+					<div class="info-data">
+						São Paulo - SP - 15/09/26					</div>
+					<div class="cargo m-tb">
+						<span>Dev <span class="highlight"><span style="background-color: #FFFF00"><span style="background-color: #FFFF00">Python</span></span></span> c/ GenAi - Hibrido-SP</span>
+					</div>
+					<div class="texto">
+<p style="white-space:pre-wrap; "> <br>Desenvolvedor(a) Python com GenAI <br> <br>Regime: CLT <br>Formato: Híbrido - Santo Amaro/SP <br>Prazo: 12 meses, com chances de prorrogação <br>Idioma: Inglês ou Espanhol são diferenciais <br> <br>Requisitos: <br>Experiência com desenvolvimento em Python <br>Experiência com soluções de GenAI <br>Experiência na criação e desenvolvimento de agentes de IA <br>Conhecimento em protocolos MCP e A2A <br>Conhecimento em implementação de RAG <br>Conhecimento em AWS Bedrock será considerado um diferencial						</p>
+						<p>
+                         <strong>Empresa .....:</strong>  Entrust IT<BR>
+                         <strong>Código .......:</strong>   86066						<a class="btn3 "href="https://www.apinfo.com/apinfo/inc/enviecv.cfm?codvaga=86066&pkey=YsYYrwYtrYYwvhrxjLrjyzETzWqTqWTTqH"> Envie seu currículo </a>
+<p><br> </p>
+					</div>
+				</div>
+
+				<div class="box-vagas linha pd">
+					<div class="info-data">
+						São Paulo - SP - 14/09/26					</div>
+					<div class="cargo m-tb">
+						<span><span class="highlight"><span style="background-color: #FFFF00"><span style="background-color: #FFFF00">Python</span></span></span>/LLM (Full Stack)</span>
+					</div>
+					<div class="texto">
+<p style="white-space:pre-wrap; "> <br>Application Developer - Python/LLM (Full Stack) <br> <br>Modelo: Híbrido (Hortolândia/SP ou Rio de Janeiro/RJ) <br> <br>Buscamos um profissional com experiência em desenvolvimento de aplicações, Inteligência <br>Artificial Generativa e integração de sistemas para atuar na construção e evolução de agentes <br>inteligentes por voz e texto. <br> <br>Requisitos <br>Sólida experiência com Python e TypeScript. <br>Experiência com desenvolvimento e integração de APIs REST. <br>Conhecimento em LLM, IA Generativa, RAG e Prompt Engineering. <br>Experiência com Angular, microsserviços e containers. <br>Conhecimento em bancos de dados SQL e NoSQL. <br>Vivência com Kubernetes, CI/CD e observabilidade. <br> <br>Diferenciais <br>Kafka e mensageria. <br>Apache Airflow. <br>Elastic, Kibana e Prometheus. <br>Tekton. <br>Experiência em projetos de IA Conversacional. <br>Informações do Projeto <br> <br>Diferenciais <br>Kafka e mensageria. <br>Apache Airflow. <br>Elastic, Kibana e Prometheus. <br>Tekton. <br>Experiência em projetos						</p>
+						<p>
+                         <strong>Empresa .....:</strong>  CIDIC  Consultoria em TI<BR>
+                         <strong>Código .......:</strong>   86136						<a class="btn3 "href="https://www.apinfo.com/apinfo/inc/enviecv.cfm?codvaga=86136&pkey=YsYYrwYsZYYwvhrxjSvjyzETzWqzqqTTqH"> Envie seu currículo </a>
+<p><br> </p>
+					</div>
+				</div>
+
+				<div class="box-vagas linha pd">
+					<div class="info-data">
+						São Paulo - SP - 12/09/26					</div>
+					<div class="cargo m-tb">
+						<span>Desenvolvedor(a) <span class="highlight"><span style="background-color: #FFFF00"><span style="background-color: #FFFF00">Python</span></span></span>/N8N // Híbrido Lapa (SP)</span>
+					</div>
+					<div class="texto">
+<p style="white-space:pre-wrap; "> <br>Requisitos: <br>• Python avançado e Pandas <br>• N8N e automação de processos <br>• Construção e consumo de APIs <br>• Apache Airflow e desenvolvimento de DAGs <br>• ETL/ELT e arquitetura Bronze, Silver e Gold <br>• Power BI e DAX <br>• PostgreSQL, Parquet e GitHub <br> <br>Conhecimentos em Microsoft Fabric e Databricks serão considerados diferenciais. <br> <br>Atuação híbrida – 2x por semana (Parque Anhanguera – SP) <br>Contratação PJ						</p>
+						<p>
+                         <strong>Empresa .....:</strong>  CAPITANI GROUP<BR>
+                         <strong>Código .......:</strong>   86123						<a class="btn3 "href="https://www.apinfo.com/apinfo/inc/enviecv.cfm?codvaga=86123&pkey=YsYYrwYFrkYwvhrxjIrcyzETzWqzbWWTqH"> Envie seu currículo </a>
+<p><br> </p>
+					</div>
+				</div>
+
+				<div class="box-vagas linha pd">
+					<div class="info-data">
+						São Paulo - SP - 10/09/26					</div>
+					<div class="cargo m-tb">
+						<span>Desenvolvedor <span class="highlight"><span style="background-color: #FFFF00"><span style="background-color: #FFFF00">Python</span></span></span></span>
+					</div>
+					<div class="texto">
+<p style="white-space:pre-wrap; "> <br>Desenvolvedor Python <br> <br>Descrição: <br>Desenvolvedores Python com GenAI, com experiência em solução de criação de agentes (Protocolos MCP e A2A). <br>Desejável conhecimento em AWS Bedrock e experiência em implementação de RAG). <br> <br>Idioma Inglês ou Espanhol são um diferencial <br> <br>Previsão até 08/2027 com possibilidade de absorção <br>Atuação: Híbrido em (Santo Amaro) - Horário de trabalho: 09:00h – 18:00h						</p>
+						<p>
+                         <strong>Empresa .....:</strong>  Consultoria Sow<BR>
+                         <strong>Código .......:</strong>   86179						<a class="btn3 "href="https://www.apinfo.com/apinfo/inc/enviecv.cfm?codvaga=86179&pkey=YsYYrwvYZvYwvhrxMjvMyzETzWqHzqHTqH"> Envie seu currículo </a>
+<p><br> </p>
+					</div>
+				</div>
+
+				<div class="box-vagas linha pd">
+					<div class="info-data">
+						São Paulo - SP - 10/09/26					</div>
+					<div class="cargo m-tb">
+						<span>Desenvolvedor <span class="highlight"><span style="background-color: #FFFF00"><span style="background-color: #FFFF00">Python</span></span></span> Sênior</span>
+					</div>
+					<div class="texto">
+<p style="white-space:pre-wrap; "> <br>Oportunidade – Desenvolvedor(a) Python Sênior <br> <br>Contratação: PJ (Projeto Temporário) <br>Duração do projeto: 15 dias <br>Remuneração: a combinar <br> <br>Principais atividades: <br>• Desenvolvimento, manutenção e evolução de aplicações e APIs <br>• Integração entre sistemas e serviços <br>• Implementação e sustentação de arquitetura de microsserviços <br>• Garantia das boas práticas de desenvolvimento e versionamento de código <br>• Participação em melhorias contínuas e entregas de alta qualidade. <br> <br>Conhecimentos necessários: <br>• Experiência sólida com desenvolvimento em Python <br>• Conhecimento em FastAPI, Flask e/ou Django <br>• Experiência com criação e consumo de APIs REST <br>• Conhecimento em bancos de dados SQL e NoSQL <br>• Experiência com Git e versionamento de código <br>• Conhecimento em Docker e conteinerização <br>• Experiência com arquitetura de microsserviços <br>• Vivência com metodologias ágeis <br>• Conhecimento em ambientes em nuvem (AWS, Azure ou GCP)						</p>
+						<p>
+                         <strong>Empresa .....:</strong>  AL RH<BR>
+                         <strong>Código .......:</strong>   85290						<a class="btn3 "href="https://www.apinfo.com/apinfo/inc/enviecv.cfm?codvaga=85290&pkey=YsYYZsKwvwYwvhvSnxMxyzETztqTqHqTqH"> Envie seu currículo </a>
+<p><br> </p>
+					</div>
+				</div>
+
+				<div class="box-vagas linha pd">
+					<div class="info-data">
+						São Paulo - SP - 09/09/26					</div>
+					<div class="cargo m-tb">
+						<span>DESENVOLVEDOR <span class="highlight"><span style="background-color: #FFFF00"><span style="background-color: #FFFF00">PYTHON</span></span></span> SÊNIOR</span>
+					</div>
+					<div class="texto">
+<p style="white-space:pre-wrap; "> <br>Requisitos <br>•	Formação superior em Computação, Engenharia, Sistemas de Informação ou áreas correlatas <br>•	Experiência avançada com Python e programação orientada a objetos <br>•	Conhecimento sólido em Apache Airflow <br>•	Experiência com YAML e contratos declarativos <br>•	Vivência com PostgreSQL, Parquet e modelagem de dados <br>•	Conhecimento em Arquitetura Medalhão e idempotência <br>•	Experiência com testes automatizados (Pytest) <br>•	Domínio de Git e gestão de ambientes Conda. <br> <br>Diferenciais <br>•	Pandas, Dask e PyArrow <br>•	Data Mesh <br>•	DataOps <br>•	GitHub Actions e Sonar <br>•	FinOps <br>•	Experiência em ambientes de Compliance, Auditoria, Segurança ou Gestão de Riscos. <br> <br>Local: Parque Anhanguera – SP (Híbrido 2x por semana) <br>Contratação: PJ <br>Projeto por tempo indeterminado						</p>
+						<p>
+                         <strong>Empresa .....:</strong>  CAPITANI GROUP<BR>
+                         <strong>Código .......:</strong>   85217						<a class="btn3 "href="https://www.apinfo.com/apinfo/inc/enviecv.cfm?codvaga=85217&pkey=YsYYZsrZksYwvhvSrvcSyzETztqsqsETqH"> Envie seu currículo </a>
+<p><br> </p>
+					</div>
+				</div>
+
+				<div class="box-vagas linha pd">
+					<div class="info-data">
+						São Paulo - SP - 08/09/26					</div>
+					<div class="cargo m-tb">
+						<span>Pessoa Engenheira de <span class="highlight"><span style="background-color: #FFFF00"><span style="background-color: #FFFF00">Python</span></span></span> Sênior</span>
+					</div>
+					<div class="texto">
+<p style="white-space:pre-wrap; "> <br>O Desafio: <br>Projetar e implantar serviços de ML/AI, desde a integração de modelos até APIs de alta performance. <br> <br>Responsabilidades: <br>Desenvolver e escalar microsserviços em GCP (Cloud Run, GKE, Pub/Sub). <br>Integrar LLMs e modelos de ML em pipelines de inferência resilientes. <br>Liderar design de arquiteturas robustas e tolerantes a falhas. <br>Aplicar práticas de excelência: SOLID, CI/CD, IaC e observabilidade. <br> <br>Requisitos: <br>Sólida experiência em Python (Backend/Full-stack). <br>Domínio de arquiteturas Cloud Native (GCP preferencial). <br>Experiência com Docker, Kubernetes e APIs REST/gRPC. <br>Inglês (Intermediário/Avançado). <br> <br>Diferenciais: Produção de LLMs, RAG, LangChain e Terraform. <br> <br>Info: Contratação via cooperativa  Híbrido (3x/sem, Av. Paulista). <br>Benefícios: Auxílio, People Hub, TotalPass, iFood, WellHub e Treinamentos.						</p>
+						<p>
+                         <strong>Empresa .....:</strong>  Viaflow<BR>
+                         <strong>Código .......:</strong>   85583						<a class="btn3 "href="https://www.apinfo.com/apinfo/inc/enviecv.cfm?codvaga=85583&pkey=YsYYZsswFkYwvhvSSxIcyzETztqEtHWTqH"> Envie seu currículo </a>
+<p><br> </p>
+					</div>
+				</div>
+</div>
+   <center>
+<a href="https://www.apinfo.com/cgi/clickba.cfm?empre=apicvsem" target="_top">
+ <img src="https://www.apinfo.com/banner/cvsemexp.png"
+ alt="apicvsem" border="0"></a>
+ </center>
+<form METHOD="POST" ACTION="list4.cfm"><input type="hidden" name="pkey"    value="YqYYxqhhtwvtlvYkZwZqKYY">
+<input type="hidden" name="tcv"     value="18">
+<input type="hidden" name="ddmmaa1" value="">
+<input type="hidden" name="ddmmaa2" value="">
+<input type="hidden" name="onde"    value="1">
+<input type="hidden" name="andor"   value="1">
+<input type="hidden" name="keyw"    value="Python">
+<hr>
+<div class="complemento m-tb">
+	<div class="n-paginas">
+	<strong>Página 1 de 3 </strong>
+	</div>
+	<div class="paginacao pd">
+		<table bgColor="#ffff80" class="fright">
+		<tr>
+		<td> <a href="list4.cfm?wparam=YqYYxqhhtwvtlvYkZwZqKYY,1,0,1,0,2,0,1,2" >Nova Pesquisa</a></td>
+		<td class="separa"></td>
+		<td><strong>Pular para a página : </td></strong>
+		<td><input type="text" name="pag" value="2" maxsize="4" maxlength="4"></td>
+		<td><input type="submit" value="OK"> </td>
+		</tr>
+		</table>
+    </div>
+</div>
+ </form>
+</div>
+</div>
+</section>
+<!-- /bloco principal â†‘ -->
+</div>
+</div>
+	<div class="container">
+
+		<div class="sixteen columns">
+
+			<footer id="rodape">
+
+				<div class="sixteen columns">
+					<div class="three columns">
+						<ul>
+							<li class="titulo">Institucional</li>
+							<li><a href="https://www.apinfo.com/apinfo/inc/sobre.cfm">Sobre</a></li>
+							<li><a href="https://www.apinfo.com/apinfo/inc/fale.cfm">Fale conosco</a></li>
+							<li><a href="https://www.apinfo2.com/apinfo/inc/itguestl.cfm">Livro de visitas</a></li>
+							<li><a href="https://www.apinfo.com/apinfo/inc/politica_privacidade.cfm">Politica de Privacidade</a></li>
+							<li><a href="https://www.apinfo.com/apinfo/inc/politica_cookies.cfm">Politica de cookies</a></li>
+						</ul>
+					</div>
+					<div class="three columns">
+						<ul>
+							<li class="titulo">Profissionais</li>
+								<li><a href="https://www.apinfo.com/apinfo/inc/list4.cfm">Pesquisar Vagas</a></li>
+								<li><a href="https://www.apinfo2.com/apinfo/inc/cv-inc.cfm">Incluir Currículo</a></li>
+								<li><a href="https://www.apinfo2.com/apinfo/inc/validas.cfm">Atualizar Currículo</a></li>
+								<li><a href="https://www.apinfo2.com/apinfo/inc/cv-exc.cfm">Excluir Currículo</a></li>
+								<li><a href="https://www.apinfo.com/apinfo/inc/faqp.cfm">Perguntas frequentes</a></li>
+						</ul>
+					</div>
+					<div class="three columns">
+						<ul>
+							<li class="titulo">Empresas</li>
+								<li><a href="https://www.apinfo2.com/apinfo/inc/pesq9a.cfm">Pesquisar Currículo</a></li>
+								<li><a href="https://www.apinfo2.com/apinfo/inc/pesqentra2.cfm">Pesquisa Avançada CV</a></li>
+								<li><a href="https://www.apinfo.com/apinfo/inc/incofe01.cfm">Incluir Vaga</a></li>
+								<li><a href="https://www.apinfo.com/apinfo/inc/alterar_vaga.cfm">Alterar Vaga</a></li>
+								<li><a href="https://www.apinfo.com/apinfo/inc/excofe.cfm">Excluir Vaga</a></li>
+							   <li><a href="https://www.apinfo.com/apinfo/inc/faqe.cfm">Perguntas frequentes</a></li>
+						</ul>
+					</div>
+					<div class="three columns">
+						<ul>
+							<li class="titulo">Informação</li>
+								<li><a href="https://www.apinfo2.com/apinfo/inc/ithelpl.cfm">IT Help</a></li>
+								<li><a href="https://www.apinfo2.com/apinfo/inc/ithelpjl.cfm">Fórum Jurídico</a></li>
+								<li><a href="https://www.apinfo2.com/apinfo/inc/itforum1.cfm">Fórum</a></li>
+								<li><a href="https://www.apinfo2.com/apinfo/inc/resultados_pesquisas.cfm">Resultados Pesquisas</a></li>
+								<li><a href="https://www.apinfo2.com/apinfo/inc/itguestl.cfm">Guestbook</a></li>
+ 						</ul>
+					</div>
+					<div class="three columns">
+						<ul>
+							<li class="titulo">Informação</li>
+		        			<li><a href="https://www.apinfo2.com/apinfo/informacao/p25sal-br.cfm">Salários</a></li>
+							<li><a href="https://www.apinfo.com/apinfo/inc/sal.cfm">Planilha CLT x PJ</a></li>
+
+ 						</ul>
+					</div>
+				</div>
+
+				<div class="sub-footer sixteen columns">
+					<img src="https://www.apinfo.com/apinfo/assets/img/logo_rodape.jpg" alt="APinfo" title="APinfo">
+					<p>
+						2026 Todos os direitos reservados APinfo - Site ativo desde 1997 <br>
+						<span>É proibida a reprodução do conteúdo deste site, em qualquer meio, eletrônico ou impresso, sem autorização escrita.</span>
+					</p>
+
+				</div>
+
+			</footer>
+		</div>
+
+	</div><!-- container -->
+
+	<script src="https://www.apinfo.com/apinfo/assets/js/jquery.validate.js"></script>
+	<script src="https://www.apinfo.com/apinfo/assets/js/valida.form.js"></script>
+	<script src="https://www.apinfo.com/apinfo/assets/js/jquery.maskedinput-1.2.2.min.js"></script>
+	<script src="https://www.apinfo.com/apinfo/assets/js/funcoes.js"></script>
+
+	<link rel="stylesheet" href="https://www.apinfo.com/apinfo/assets/css/cookieconsent.min.css">
+	<script src="https://www.apinfo.com/apinfo/assets/js/cookieconsent.min.js"></script>
+
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+"palette": {
+"popup": {
+"background": "#0186d3;",
+"text": "#b2d192"
+},
+"button": {
+"background": "#1e88e5;"
+}
+},
+"content": {
+"message": "O site apinfo usa cookies para garantir que você obtenha a melhor experiência.",
+"link": "Politica de Cookies",
+"dismiss": "Eu concordo !",
+"href": "https://www.apinfo.com/apinfo/inc/politica_cookies.cfm"
+
+}
+})});
+</script>
+	
+	
+
+	<div id="light-info">
+		<div class="wp">
+			<span id="close">
+				<a href="">X</a>
+			</span>
+			<div id="box-content"></div>
+		</div>
+	</div>
+
+</body>
+</html>
+

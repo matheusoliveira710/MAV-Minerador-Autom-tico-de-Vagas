@@ -1,0 +1,453 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="pt-br"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="pt-br"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="pt-br"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="pt-br"> <!--<![endif]-->
+<head>
+<META http-equiv=Content-Language content=pt-br>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+	<title>APinfo - O ponto de encontro dos profissionais de informática</title>
+	<meta name="description" content="Banco de curriculum de profissionais de informática, empregos, vagas,pesquisas, tabelas salariais e suporte tecnico">
+	<meta name="keywords" content="Salarios, salários, tabelas, profissionais, empregos,informática, informatica, analistas, sistemas, gerentes, programadores, consultores, trabalho, duvida, suporte, dicas, free, pesquisas">
+	<meta name="author" content="Apinfo">
+
+	<!-- Mobile Specific Metas
+  ================================================== -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+	<!-- CSS
+  ================================================== -->
+	<link rel="stylesheet" href="https://www.apinfo.com/apinfo/assets/css/base.css">
+	<link rel="stylesheet" href="https://www.apinfo.com/apinfo/assets/css/skeleton.css">
+	<link rel="stylesheet" href="https://www.apinfo.com/apinfo/assets/css/style2.css">
+
+	<!--[if lt IE 9]>
+		<link rel="stylesheet" href="https://www.apinfo.com/apinfo/assets/css/ie.css">
+		<script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+	<link rel="shortcut icon" href="https://www.apinfo.com/apinfo/assets/favicon.ico">
+	<link rel="apple-touch-icon" href="https://www.apinfo.com/apinfo/assets/img/apple-touch-icon.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="https://www.apinfo.com/apinfo/assets/img/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="https://www.apinfo.com/apinfo/assets/img/apple-touch-icon-114x114.png">
+
+	<!-- Facebook Open Graph meta tags
+	============================================== -->
+	<meta name="og:title" content="APinfo - O ponto de encontro dos profissionais de informática"/>
+	<meta name="og:url" content="https://www.apinfo.com"/>
+	<meta name="og:image" content="https://www.apinfo.com/apinfo/assets/img/logo.jpg"/>
+	<meta name="og:site_name" content="APinfo"/>
+	<meta name="og:description" content="Banco de curriculum de profissionais de informática, empregos, vagas,pesquisas, tabelas salariais e suporte tecnico"/>
+
+	<!-- JS
+	============================================== -->
+	<script src="https://www.apinfo.com/apinfo/assets/js/modernizr.js"></script>
+	<script src="https://www.apinfo.com/apinfo/assets/js/jquery-3.3.1.min.js"></script>
+	<script src="https://www.apinfo.com/apinfo/assets/js/jquery.placeholder.js"></script>
+
+	<script src="https://www.google.com/jsapi"></script>
+
+	<script src="https://www.apinfo.com/apinfo/assets/js/jquery.mask.min.js"></script>
+
+	<script src="https://www.apinfo.com/apinfo/assets/js/jquery.autocomplete.min.js"></script>
+	<script src="https://www.apinfo.com/apinfo/assets/js/currency-autocompletet.js"></script>
+
+</head>
+<body>
+	<div class="top-shortcut">
+		<span><strong>O ponto de encontro dos profissionais de informática </strong></span>
+	</div>
+	<div class="container">
+		<div class="eight columns">
+			<h1 class="logo m-tb">
+				<a href="https://www.apinfo.com/apinfo/index.cfm" title="APinfo">APinfo</a>
+			</h1>
+		</div>
+		<div class="eight columns">
+			<div class="publicidade-home half-bottom">
+				
+   <center>
+<a href="https://www.apinfo.com/cgi/clickba.cfm?empre=apipesq23" target="_top">
+ <img src="https://www.apinfo.com/banner/apiresultpesq.gif"
+ alt="apipesq" border="0"></a>
+ </center>
+			</div>
+		</div>
+	</div>
+	<div class="container">
+		<div class="sixteen columns">
+			<div class="btn-mobile">
+				<a href="https://www.apinfo.com/apinfo/#" class="fright" id="m-menu">
+					<span class="btn-menu"></span>
+					<span class="btn-menu"></span>
+					<span class="btn-menu"></span>
+				</a>
+			</div>
+			<nav class="top-menu">
+				<section class="top-menu-section">
+					<ul>
+						<li class="has-dropdown"><a href="https://www.apinfo.com/apinfo/#">Profissionais</a>
+							<ul class="dropdown">
+								<li><a href="https://www.apinfo.com/apinfo/inc/list4.cfm">Pesquisar Vagas</a></li>
+								<li><a href="https://www.apinfo2.com/apinfo/inc/cv-inc.cfm">Incluir Currículo</a></li>
+								<li><a href="https://www.apinfo2.com/apinfo/inc/validas.cfm">Atualizar Currículo</a></li>
+								<li><a href="https://www.apinfo2.com/apinfo/inc/cv-exc.cfm">Excluir Currículo</a></li>
+								<li><a href="https://www.apinfo.com/apinfo/inc/faqp.cfm">Perguntas frequentes</a></li>
+							</ul>
+						</li>
+						<li class="has-dropdown"><a href="https://www.apinfo.com/apinfo/#">Empresas</a>
+							<ul class="dropdown">
+								<li><a href="https://www.apinfo2.com/apinfo/inc/pesq9a.cfm">Pesquisar Currículo</a></li>
+								<li><a href="https://www.apinfo2.com/apinfo/inc/pesqentra2.cfm">Pesquisa Avançada CV</a></li>
+								<li><a href="https://www.apinfo.com/apinfo/inc/incofe01.cfm">Incluir Vaga</a></li>
+								<li><a href="https://www.apinfo.com/apinfo/inc/alterar_vaga.cfm">Alterar Vaga</a></li>
+								<li><a href="https://www.apinfo.com/apinfo/inc/excofe.cfm">Excluir Vaga</a></li>
+								<li><a href="https://www.apinfo.com/apinfo/inc/faqe.cfm">Perguntas frequentes</a></li>
+							</ul>
+						</li>
+						<li class="has-dropdown"><a href="https://www.apinfo.com/apinfo/#">Informação</a>
+							<ul class="dropdown">
+								<li><a href="https://www.apinfo2.com/apinfo/inc/resultados_pesquisas.cfm">Resultado Pesquisa</a></li>
+								<li><a href="https://www.apinfo2.com/apinfo/informacao/p23sal-br.cfm">Salários</a></li>
+								<li><a href="https://www.apinfo.com/apinfo/inc/sal.cfm">Planilha CLT x PJ</a></li>
+								<li><a href="https://www.apinfo2.com/apinfo/informacao/p22sumario.cfm">Prof mais requisitados</a></li>
+								<li><a href="https://www.apinfo2.com/apinfo/inc/itforum1.cfm">Fórum</a></li>
+								<li><a href="https://www.apinfo2.com/apinfo/inc/ithelpl.cfm">IT Help</a></li>
+								<li><a href="https://www.apinfo2.com/apinfo/inc/ithelpjl.cfm">Fórum Jurídico</a></li>
+								<li><a href="https://www.apinfo2.com/apinfo/inc/espaco_opiniao.cfm">Espaço Opinião</a></li>
+								<li><a href="https://www.apinfo2.com/apinfo/inc/itguestl.cfm">Depoimentos</a></li>
+							</ul>
+						</li>
+						<li><a href="https://www.apinfo.com/apinfo/inc/fale.cfm">Fale Conosco</a></li>
+					</ul>
+				</section>
+			</nav>
+		</div>
+	</div>
+<div class="container">
+	<div class="sixteen columns">
+		<section id="busca" class="half-bottom">
+			<form action="https://www.apinfo.com/apinfo/inc/list4.cfm" method="post" id="form-busca">
+				<div class="section-form">	
+					<div class="links-tipo">
+						<a href="https://www.apinfo.com/apinfo/inc/list4.cfm" class="b-active">Pesquise por vagas</a> | <a href="https://www.apinfo2.com/apinfo/inc/pesq9a.cfm">Pesquise por currículos</a>
+					</div>
+					<div class="inline-busca">
+						<input type="text" name="keyw" id="i-busca" placeholder="Digite sua busca aqui... palavras chave, ou o codigo da vaga, ou do currículo" title="Digite sua busca aqui..."><input type="submit" id="btn-busca" value="Buscar" title="Buscar">
+					</div>
+				</div>					
+			</form>
+		
+		</section>
+	</div>
+</div>
+<!-- / TOPO DO SITE -->
+
+<!-- CHAMADAS PRINCIPAIS HOME -->
+<div class="container">
+
+		<section class="chamadas clearfix half-bottom">
+			<div class="five columns">
+				<div class="cham-img">
+<a href="https://www.apinfo.com/apinfo/inc/list4.cfm"><img src="https://www.apinfo.com/apinfo/assets/img/img_vagas.jpg" alt="Vagas" title="Vagas"></a>
+				</div>
+				<div class="text">
+					<p>
+						Novas vagas ao longo de todo o dia. Pesquise oportunidades para sua carreira
+					</p>
+				</div>
+			</div>
+			<div class="five columns">
+				<div class="cham-img">
+					<a href="https://www.apinfo2.com/apinfo/inc/cv-inc.cfm"><img src="https://www.apinfo.com/apinfo/assets/img/img_cv.jpg" alt="Currículos" title="Currículos"></a>
+				</div>
+				<div class="text">
+					<p>
+						Inclua seu Curriculum grátis por tempo <strong>ilimitado</strong> e concorra a <strong>todas</strong> as vagas
+					</p>
+				</div>
+			</div>
+
+		</section>
+	</div>
+<!-- / CHAMADAS PRINCIPAIS HOME -->
+
+<!-- CONTEÃšDO -->
+	<div class="container">
+	<!-- bloco principal -->
+<div class="eleven columns">
+
+	<div class="principal">
+
+		<div class="publicidade-home half-bottom">
+
+<!--
+<div class="bloco-publicidade">
+<a href="https://www.apinfo.com/apinfo/inc/cvsemexp.cfm" target="_top">
+ <img src="https://www.apinfo.com/banner/cvsemexp.png"
+ alt="API" border="0"></a>
+</div>
+-->
+
+		    <div>
+			 <hr>
+			 <p> <br> </p>
+
+<!-- Bloco chamativo para vagas de estágio em TI -->
+<div style="background: linear-gradient(135deg, #d32f2f, #ff6f00); color: white; padding: 30px; border-radius: 15px; text-align: center; font-family: Arial, sans-serif; margin: 30px auto; max-width: 700px; box-shadow: 0 10px 25px rgba(0, 0, 0, 0.35);">
+  <h2 style="font-size: 2.2em; margin-bottom: 10px;">
+    Como o uso de AI pode estar acabando com o seu CV
+  </h2>
+
+  <p style="font-size: 1.2em; margin-bottom: 25px;">
+    Evite erros e use a inteligência artificial a seu favor
+  </p>
+
+  <a href="https://www.apinfo.com/apinfo/inc/cv-ai.cfm" target="_blank"
+     style="display: inline-block; background: #ff6d00; color: white; padding: 15px 30px; font-size: 1.1em; font-weight: bold; text-decoration: none; border-radius: 10px; box-shadow: 0 5px 15px rgba(0,0,0,0.3);">
+     Clique para ver as dicas
+  </a>
+</div>
+<p> <br> </p>
+
+
+<!-- Bloco chamativo para vagas de estágio em TI -->
+<div style="background: linear-gradient(135deg, #1e88e5, #42a5f5); color: white; padding: 30px; border-radius: 15px; text-align: center; font-family: Arial, sans-serif; margin: 30px auto; max-width: 700px; box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);">
+  <h2 style="font-size: 2.2em; margin-bottom: 10px;">Nova planilha de comparação CLT x PJ</h2>
+  <p style="font-size: 1.2em; margin-bottom: 25px;">
+    Com a isenção de IR, para quem ganha até R$ 5.000,00
+  </p>
+  <a href="https://www.apinfo.com/sal.xlsx" target="_blank" style="display: inline-block; background: #ffca28; color: #000; padding: 15px 30px; font-size: 1.1em; font-weight: bold; text-decoration: none; border-radius: 10px; box-shadow: 0 5px 15px rgba(0,0,0,0.2); transition: background 0.3s, transform 0.2s;">
+    clique para fazer o download da planilha em Excel
+  </a>
+</div>
+<p> <br> </p>
+
+<!-- Bloco chamativo para vagas de estágio em TI -->
+<div style="background: linear-gradient(135deg, #FA8072, #FFA07A); color: white; padding: 30px; border-radius: 15px; text-align: center; font-family: Arial, sans-serif; margin: 30px auto; max-width: 700px; box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);">
+  <h2 style="font-size: 2.2em; margin-bottom: 10px;">Vagas SAP</h2>
+  <p style="font-size: 1.2em; margin-bottom: 25px;">
+    Estamos com muitas vagas e poucos candidatos, ajude a divulgar !
+  </p>
+  <a href="https://www.apinfo.com/apinfo/inc/list4sap.cfm" target="_blank" style="display: inline-block; background: #EEDD82; color: #000; padding: 15px 30px; font-size: 1.1em; font-weight: bold; text-decoration: none; border-radius: 10px; box-shadow: 0 5px 15px rgba(0,0,0,0.2); transition: background 0.3s, transform 0.2s;">
+    Clique para ver as vagas SAP
+  </a>
+</div>
+<p> <br> </p>
+
+<div style="background: linear-gradient(135deg, #00c9ff, #92fe9d); color: #fff; padding: 30px; border-radius: 12px; font-family: 'Segoe UI', sans-serif; box-shadow: 0 4px 12px rgba(0,0,0,0.2); animation: pulse 2s infinite;">
+  <h2 style="font-size: 2em; margin-bottom: 10px;">Resultado da Pesquisa Salarial</h2>
+  <p style="font-size: 1.2em; margin-bottom: 20px;">Descubra os salários médios, formas de trabalho, tendências do mercado, uso de IA e etc. Dados atualizados para orientar sua carreira ou decisões estratégicas.</p>
+  <a href="https://www.apinfo2.com/apinfo/informacao/p25sumario.cfm" style="background-color: #fff; color: #00c9ff; padding: 12px 24px; border-radius: 8px; text-decoration: none; font-weight: bold; transition: background 0.3s;">Ver Relatório Completo</a>
+</div>
+
+<style>
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.02); }
+  100% { transform: scale(1); }
+}
+</style>
+			 <p> <br> </p>
+<!-- Bloco chamativo para vagas de estágio em TI com fundo verde -->
+<div style="background: linear-gradient(135deg, #43a047, #66bb6a); color: white; padding: 30px; border-radius: 15px; text-align: center; font-family: Arial, sans-serif; margin: 30px auto; max-width: 700px; box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);">
+  <h2 style="font-size: 2.2em; margin-bottom: 10px;">Vagas Abertas para Estágio em TI</h2>
+  <p style="font-size: 1.2em; margin-bottom: 25px;">
+    Está começando sua carreira em tecnologia? Clique e veja as oportunidades.
+  </p>
+  <a href="https://www.apinfo.com/apinfo/inc/list4est.cfm" target="_blank" style="display: inline-block; background: #c8e6c9; color: #1b5e20; padding: 15px 30px; font-size: 1.1em; font-weight: bold; text-decoration: none; border-radius: 10px; box-shadow: 0 5px 15px rgba(0,0,0,0.2); transition: background 0.3s, transform 0.2s;">
+    Ver Vagas de Estágio
+  </a>
+</div>
+			 <p> <br> </p>
+
+		<section id="vagas-recentes" class="half-bottom border vagas clearfix">
+			<h2>
+				Bons currículos
+				<!-- <span class="fright"><a href="<>">ver todas</a></span> -->
+			</h2>
+
+			<!-- o segundo bloco deve conter a class 'marginr' para corrigir o alinhamento das divs EX. <div class="one-third column marginr">-->
+
+<div class="one-third column"><div class="bloco-vaga-unica half-bottom"><div class="nome-vaga"><a href="https://www.apinfo2.com/apinfo/inc/pesq9adesta.cfm?pkey=rYFtKvFyYKZkKtywnMIxjnvcuEbbsqHszTqqEqbTzW">Analista de Suporte</a></div><div class="data">Itapecerica da Serra - SP</div><div class="empresa">Giulio</div><footer class="rodape-vr"></footer></div> </div>
+<div class="one-third column"><div class="bloco-vaga-unica half-bottom"><div class="nome-vaga"><a href="https://www.apinfo2.com/apinfo/inc/pesq9adesta.cfm?pkey=rYFtKvFyYrksKtywnMIxjrcSuEbbsqHszTEHTztTzW">Engenheiro de Software</a></div><div class="data">Caraguatatuba - SP</div><div class="empresa">Vinícius</div><footer class="rodape-vr"></footer></div> </div>
+<div class="one-third column"><div class="bloco-vaga-unica half-bottom"><div class="nome-vaga"><a href="https://www.apinfo2.com/apinfo/inc/pesq9adesta.cfm?pkey=rYFtKvFykKvsKtywnMIxcnMSuEbbsqHszTzbTttTzW">Técnico de Suporte</a></div><div class="data">São Paulo - SP</div><div class="empresa">Aline</div><footer class="rodape-vr"></footer></div> </div>
+<div class="one-third column marginr"><div class="bloco-vaga-unica half-bottom"><div class="nome-vaga"><a href="https://www.apinfo2.com/apinfo/inc/pesq9adesta.cfm?pkey=rYFtKvFykkrKKtywnMIxccrnuEbbsqHszTsEzszTzW">Outros</a></div><div class="data">São Paulo - SP</div><div class="empresa">Emilene</div><footer class="rodape-vr"></footer></div> </div>
+		</section>
+
+			</div>
+		</div>
+
+		<section id="vagas-recentes" class="half-bottom border vagas clearfix">
+			<h2>
+				Vagas Recentes
+				<!-- <span class="fright"><a href="<>">ver todas</a></span> -->
+			</h2>
+
+			<!-- o segundo bloco deve conter a class 'marginr' para corrigir o alinhamento das divs EX. <div class="one-third column marginr">-->
+
+
+<div class="one-third column"><div class="bloco-vaga-unica half-bottom"><div class="nome-vaga"><a href="https://www.apinfo.com/apinfo/inc/list44.cfm?codvaga=86232&k=FtwwswFTbsWtWrrvIMMSYcyrLvYhtwsYw">Cientista de Dados</a></div><div class="data">Home Office - HO</div><div class="empresa">Entrust IT</div><footer class="rodape-vr"></footer></div> </div>
+<div class="one-third column"><div class="bloco-vaga-unica half-bottom"><div class="nome-vaga"><a href="https://www.apinfo.com/apinfo/inc/list44.cfm?codvaga=86231&k=rtwwhwFHzqzzsrcLjSLnYjraLvkkktFFw">Cientista de Dados</a></div><div class="data">Home Office - HO</div><div class="empresa">Entrust IT</div><footer class="rodape-vr"></footer></div> </div>
+<div class="one-third column"><div class="bloco-vaga-unica half-bottom"><div class="nome-vaga"><a href="https://www.apinfo.com/apinfo/inc/list44.cfm?codvaga=86230&k=FYttkwFbqbTqWrMSrrjxYcjLnvwYYrYvw">Analista de Suporte (CDN)</a></div><div class="data">Rio de Janeiro - RJ</div><div class="empresa">TO Brasil</div><footer class="rodape-vr"></footer></div> </div>
+<div class="one-third column"><div class="bloco-vaga-unica half-bottom"><div class="nome-vaga"><a href="https://www.apinfo.com/apinfo/inc/list44.cfm?codvaga=86229&k=ZvYYswFsqEEEWrcxSxjMYhMaaYsYkkvhk">Técnico de TI Pleno (N2)</a></div><div class="data">São Paulo - SP</div><div class="empresa">Rlsolucion</div><footer class="rodape-vr"></footer></div> </div>
+<div class="one-third column"><div class="bloco-vaga-unica half-bottom"><div class="nome-vaga"><a href="https://www.apinfo.com/apinfo/inc/list44.cfm?codvaga=86228&k=vZFrhwFHbtqqqrLLjxvxYcycrYFkZFkrw">Product Owner com foco em Product Design / UX/UI</a></div><div class="data">São Paulo - SP</div><div class="empresa">Alcateia Consulting</div><footer class="rodape-vr"></footer></div> </div>
+<div class="one-third column marginr"><div class="bloco-vaga-unica half-bottom"><div class="nome-vaga"><a href="https://www.apinfo.com/apinfo/inc/list44.cfm?codvaga=86227&k=YstrhwFttbqzqrccjxnMYMSrhYhhsrhtY">Auxiliar de Tecnologia da Informação Júnior</a></div><div class="data">São Paulo - SP</div><div class="empresa">Instituto das Irmãs da Santa Cruz</div><footer class="rodape-vr"></footer></div> </div>
+
+		</section>
+	</div>
+
+</div>
+<!-- /bloco principal ? -->
+	<!-- bloco lateral â†“ -->
+<div class="five columns">
+
+<div class="bloco-publicidade-lateral half-bottom">
+
+<!-- botão publicidade -->
+	<div>
+		<img src="https://www.apinfo.com/apinfo/banner/api-h2.gif" alt="Apinfo">
+	</div>
+
+				<div>
+		<p><center>
+		<a href="https://www.apinfo.com/apinfo/inc/sal.cfm">Planilha atualizada, para comparação de salários: CLT, PJ, CLT-Flex e Cooperado</a></center></p>
+		<p> <br> </p>
+		<p><center>
+		<a href="https://www.apinfo.com/apinfo/inc/ingressar-mercado-ti.cfm">Como ingressar no mercado de TI</a></center></p>
+		<p> <br> </p>
+		<p><center>
+		<a href="https://www.apinfo.com/apinfo/inc/ia-cargos-2025.cfm">Como a Inteligência Artificial pode impactar sua carreira em TI</a></center></p>
+		<p> <br> </p>
+		<p><center>
+		<a href="https://www.apinfo.com/apinfo/inc/list4sap.cfm">Pesquise vagas para SAP</a></center></p>
+		<p> <br> </p>
+		<p><center>
+		<a href="https://www.apinfo.com/apinfo/inc/list4est.cfm">Pesquise vagas para estagiários</a></center></p>
+		<p> <br> </p>
+			</div>
+
+</div>
+
+</div>
+<!-- /bloco lateral â†‘ -->
+	</div>
+<!-- / CONTEÃšDO -->
+
+<!-- RODAPÃ‰ -->
+	<div class="container">
+
+		<div class="sixteen columns">
+
+			<footer id="rodape">
+
+				<div class="sixteen columns">
+					<div class="three columns">
+						<ul>
+							<li class="titulo">Institucional</li>
+							<li><a href="https://www.apinfo.com/apinfo/inc/sobre.cfm">Sobre</a></li>
+							<li><a href="https://www.apinfo.com/apinfo/inc/fale.cfm">Fale conosco</a></li>
+							<li><a href="https://www.apinfo2.com/apinfo/inc/itguestl.cfm">Livro de visitas</a></li>
+							<li><a href="https://www.apinfo.com/apinfo/inc/politica_privacidade.cfm">Politica de Privacidade</a></li>
+							<li><a href="https://www.apinfo.com/apinfo/inc/politica_cookies.cfm">Politica de cookies</a></li>
+						</ul>
+					</div>
+					<div class="three columns">
+						<ul>
+							<li class="titulo">Profissionais</li>
+								<li><a href="https://www.apinfo.com/apinfo/inc/list4.cfm">Pesquisar Vagas</a></li>
+								<li><a href="https://www.apinfo2.com/apinfo/inc/cv-inc.cfm">Incluir Currículo</a></li>
+								<li><a href="https://www.apinfo2.com/apinfo/inc/validas.cfm">Atualizar Currículo</a></li>
+								<li><a href="https://www.apinfo2.com/apinfo/inc/cv-exc.cfm">Excluir Currículo</a></li>
+								<li><a href="https://www.apinfo.com/apinfo/inc/faqp.cfm">Perguntas frequentes</a></li>
+						</ul>
+					</div>
+					<div class="three columns">
+						<ul>
+							<li class="titulo">Empresas</li>
+								<li><a href="https://www.apinfo2.com/apinfo/inc/pesq9a.cfm">Pesquisar Currículo</a></li>
+								<li><a href="https://www.apinfo2.com/apinfo/inc/pesqentra2.cfm">Pesquisa Avançada CV</a></li>
+								<li><a href="https://www.apinfo.com/apinfo/inc/incofe01.cfm">Incluir Vaga</a></li>
+								<li><a href="https://www.apinfo.com/apinfo/inc/alterar_vaga.cfm">Alterar Vaga</a></li>
+								<li><a href="https://www.apinfo.com/apinfo/inc/excofe.cfm">Excluir Vaga</a></li>
+							   <li><a href="https://www.apinfo.com/apinfo/inc/faqe.cfm">Perguntas frequentes</a></li>
+						</ul>
+					</div>
+					<div class="three columns">
+						<ul>
+							<li class="titulo">Informação</li>
+								<li><a href="https://www.apinfo2.com/apinfo/inc/ithelpl.cfm">IT Help</a></li>
+								<li><a href="https://www.apinfo2.com/apinfo/inc/ithelpjl.cfm">Fórum Jurídico</a></li>
+								<li><a href="https://www.apinfo2.com/apinfo/inc/itforum1.cfm">Fórum</a></li>
+								<li><a href="https://www.apinfo2.com/apinfo/inc/resultados_pesquisas.cfm">Resultados Pesquisas</a></li>
+								<li><a href="https://www.apinfo2.com/apinfo/inc/itguestl.cfm">Guestbook</a></li>
+ 						</ul>
+					</div>
+					<div class="three columns">
+						<ul>
+							<li class="titulo">Informação</li>
+		        			<li><a href="https://www.apinfo2.com/apinfo/informacao/p25sal-br.cfm">Salários</a></li>
+							<li><a href="https://www.apinfo.com/apinfo/inc/sal.cfm">Planilha CLT x PJ</a></li>
+
+ 						</ul>
+					</div>
+				</div>
+
+				<div class="sub-footer sixteen columns">
+					<img src="https://www.apinfo.com/apinfo/assets/img/logo_rodape.jpg" alt="APinfo" title="APinfo">
+					<p>
+						2026 Todos os direitos reservados APinfo - Site ativo desde 1997 <br>
+						<span>É proibida a reprodução do conteúdo deste site, em qualquer meio, eletrônico ou impresso, sem autorização escrita.</span>
+					</p>
+
+				</div>
+
+			</footer>
+		</div>
+
+	</div><!-- container -->
+
+	<script src="https://www.apinfo.com/apinfo/assets/js/jquery.validate.js"></script>
+	<script src="https://www.apinfo.com/apinfo/assets/js/valida.form.js"></script>
+	<script src="https://www.apinfo.com/apinfo/assets/js/jquery.maskedinput-1.2.2.min.js"></script>
+	<script src="https://www.apinfo.com/apinfo/assets/js/funcoes.js"></script>
+
+	<link rel="stylesheet" href="https://www.apinfo.com/apinfo/assets/css/cookieconsent.min.css">
+	<script src="https://www.apinfo.com/apinfo/assets/js/cookieconsent.min.js"></script>
+
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+"palette": {
+"popup": {
+"background": "#0186d3;",
+"text": "#b2d192"
+},
+"button": {
+"background": "#1e88e5;"
+}
+},
+"content": {
+"message": "O site apinfo usa cookies para garantir que você obtenha a melhor experiência.",
+"link": "Politica de Cookies",
+"dismiss": "Eu concordo !",
+"href": "https://www.apinfo.com/apinfo/inc/politica_cookies.cfm"
+
+}
+})});
+</script>
+	
+	
+
+	<div id="light-info">
+		<div class="wp">
+			<span id="close">
+				<a href="">X</a>
+			</span>
+			<div id="box-content"></div>
+		</div>
+	</div>
+
+</body>
+</html>
+<!-- / RODAPÃ‰ -->

@@ -1,0 +1,4 @@
+@echo off
+cd /d "C:\Users\Matheus\PycharmProjects\PythonProject\testes_oficiais\scripts e playbook - ansible\minerador_vagas"
+call .venv\Scripts\activate.bat
+python main.py --site all
